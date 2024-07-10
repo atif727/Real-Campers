@@ -1,0 +1,12 @@
+{
+  "name": "Juna's School Bag",
+  "description": "hi, ei bag ti junar class 8 e churi hoye gesilo (churi ta ami kore ekhon amar website e bikri kortesi don't let him know)",
+  "category": "bag",
+  "price": 727,
+  "varients": [
+    { "color": "blue", "imageUrl": "" },
+    { "color": "black", "imageUrl": "" }
+  ],
+  "quantity": 10,
+  "howtocare": {"header": "", "description": ""}
+}
